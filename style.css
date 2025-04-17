@@ -1,0 +1,30 @@
+    color: #333;
+  }
+  
+  header, footer {
+    background-color: #222;
+    color: white;
+    padding: 1rem;
+    text-align: center;
+  }
+  
+  nav {
+    background-color: #444;
+    text-align: center;
+    padding: 0.5rem;
+  }
+  
+  nav a {
+    color: white;
+    margin: 0 1rem;
+    text-decoration: none;
+  }
+  
+  nav a:hover {
+    text-decoration: underline;
+  }
+  
+  section, p, ul {
+    margin: 20px;
+  }
+  
